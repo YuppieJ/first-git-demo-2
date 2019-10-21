@@ -12,6 +12,8 @@ public class FirstClass {
         System.out.println("hello first project dome-1");
         System.out.println("hello first project dome-1");
 
+        System.out.println("第二天");
+
     }
 
     public void test(){
